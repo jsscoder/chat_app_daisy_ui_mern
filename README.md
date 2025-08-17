@@ -1,6 +1,6 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+![banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO7bQRmd6lTDyWrvRCmh_g17TkTc0SJh8pUQ&s)
 
 Highlights:
 
